@@ -46,7 +46,7 @@ The dataset was sourced from Kaggle: [Coffee Sales Dataset](https://www.kaggle.c
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/divya-mehul-makwana)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/divya-mehul-makwana](https://www.linkedin.com/in/divya-makwana-2929b4378/))  
 - 🖥️ [GitHub](https://github.com/divyamehulmakwana-bit)
 
 ---
