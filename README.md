@@ -43,10 +43,11 @@ The dataset was sourced from Kaggle: [Coffee Sales Dataset](https://www.kaggle.c
 - **Excel** – Data cleaning & transformation  
 - **Kaggle** – Dataset source  
 
+---
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/divya-mehul-makwana](https://www.linkedin.com/in/divya-makwana-2929b4378/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/divya-makwana-2929b4378/)  
 - 🖥️ [GitHub](https://github.com/divyamehulmakwana-bit)
 
 ---
